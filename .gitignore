@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+*.map
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+node_modules/
+package-lock.json
+yarn.log
+.env
+.env.local
+.env.*.local
+*.bak
+*.tmp
